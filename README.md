@@ -1,3 +1,8 @@
+This fork is to help in an AI/ML-based HF-Trading Bot project. Thanks for making this available. No good deeds goes unpunished ..
+
+
+
+
 ![Hummingbot](https://i.ibb.co/X5zNkKw/blacklogo-with-text.png)
 
 ----
